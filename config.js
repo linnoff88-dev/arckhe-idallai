@@ -1,4 +1,4 @@
-/* Formaçêo Cinema com IA — configuraçêo global.
+/* Formaçêo CARCKHÉ com IA — configuraçêo global.
    VIDEOS_ATIVOS: true  → as aulas que têm vídeo mostram o link "assistir esta aula em vídeo".
    VIDEOS_ATIVOS: false → todos os links de vídeo da formaçêo somem por completo.
    Edite só esta linha: */
